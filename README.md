@@ -1,6 +1,6 @@
-# kissa-ls
+# ☕️kissa-ls
 後ほどバッジを記載する。
 lsコマンドの再開発、喫茶店のメニュー表のようなUIで情報を表示する。
 
-# Description
+# ✏️Description
 lsコマンドを再開発したものである。
