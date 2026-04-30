@@ -1,4 +1,5 @@
 # ☕️kissa-ls
+[![build](https://github.com/nki1121/kissa-ls/actions/workflows/build.yaml/badge.svg)](https://github.com/nki1121/kissa-ls/actions/workflows/build.yaml)
 [![Coverage Status](https://coveralls.io/repos/github/nki1121/kissa-ls/badge.svg?branch=main)](https://coveralls.io/github/nki1121/kissa-ls?branch=main)
 
 後ほどバッジを記載する。
