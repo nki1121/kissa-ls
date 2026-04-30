@@ -1,4 +1,6 @@
 # ☕️kissa-ls
+[![Coverage Status](https://coveralls.io/repos/github/nki1121/kissa-ls/badge.svg?branch=main)](https://coveralls.io/github/nki1121/kissa-ls?branch=main)
+
 後ほどバッジを記載する。
 lsコマンドの再開発、喫茶店のメニュー表のようなUIで情報を表示する。
 
